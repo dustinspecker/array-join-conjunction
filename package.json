@@ -11,9 +11,9 @@
   },
   "repository": "dustinspecker/array-join-conjunction",
   "keywords": [
-    "deku",
-    "props",
-    "types"
+    "array",
+    "join",
+    "conjunction"
   ],
   "author": "Dustin Specker <DustinSpecker@DustinSpecker.com> (http://dustinspecker.com/)",
   "license": "MIT",
