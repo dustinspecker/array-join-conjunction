@@ -1,6 +1,6 @@
 {
   "name": "array-join-conjunction",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Join an array with a conjunction",
   "main": "lib/index.js",
   "scripts": {
