@@ -15,23 +15,23 @@ npm install --save array-join-conjunction
 ## Usage
 
 ```javascript
-import arrayJoinConjuction from 'array-join-conjunction'
+import arrayJoinConjunction from 'array-join-conjunction'
 
-arrayJoinConjuction([])
+arrayJoinConjunction([])
 // => ''
 
-arrayJoinConjuction([1, 2])
+arrayJoinConjunction([1, 2])
 // => '1 and 2'
 
-arrayJoinConjuction(['blue', 'red', 'green'])
+arrayJoinConjunction(['blue', 'red', 'green'])
 // => 'blue, red, and green'
 
-arrayJoinConjuction(['blue', 'red', 'green'], 'or')
+arrayJoinConjunction(['blue', 'red', 'green'], 'or')
 // => 'blue, red, or green'
 ```
 
 ## API
-### arrayJoinConjuction(array, [conjunction])
+### arrayJoinConjunction(array, [conjunction])
 
 Returns a `string` joined from `array` using an optional `conjunction`.
 
